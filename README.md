@@ -95,7 +95,7 @@ Problem Solving
 Analytical Thinking
 ### ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/faridoumnay/Decodelabs Internship (project 2).git
 2. Install Dependencies
 pip install -r requirements.txt
 3. Open the Notebook
