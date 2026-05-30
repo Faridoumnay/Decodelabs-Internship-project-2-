@@ -1,5 +1,5 @@
 # Data Analyst Project
-### 📌 Project Overview
+###  Project Overview
 
 This project focuses on Data Analysis, Data Cleaning, and Data Visualization using Python.
 The objective is to transform raw datasets into meaningful insights through preprocessing, exploration, and analytical techniques.
@@ -31,7 +31,7 @@ Scikit-learn
 Environment
 Jupyter Notebook
 Google Colab
-### 📂 Project Structure
+###  Project Structure
 project/
 │
 ├── data finale.xlsx
@@ -41,11 +41,11 @@ project/
 ├── README.md
 └── requirements.txt
 ### 🔍 Data Analysis Workflow
-1️⃣ Data Collection
+1- Data Collection
 
 Import datasets from Excel files.
 
-2️⃣ Data Cleaning
+2- Data Cleaning
 
 Handle:
 
@@ -53,7 +53,7 @@ Missing values
 Duplicate records
 Incorrect formats
 Data normalization
-3️⃣ Exploratory Data Analysis (EDA)
+3- Exploratory Data Analysis (EDA)
 
 Analyze:
 
@@ -61,11 +61,11 @@ Dataset structure
 Statistical summaries
 Correlations
 Distributions
-4️⃣ Data Visualization
+4- Data Visualization
 
 Create charts and graphs for better insights.
 
-5️⃣ Insight Generation
+5- Insight Generation
 
 Extract meaningful conclusions from the data.
 
@@ -93,9 +93,9 @@ Exploratory Data Analysis
 Python Programming
 Problem Solving
 Analytical Thinking
-### ▶️ How to Run the Project
+###  How to Run the Project
 1. Clone the Repository
-git clone https://github.com/faridoumnay/Decodelabs-Internship-project-2-.git
+git clone https://github.com/faridoumnay/Task-2-faridoumnay.git
 2. Install Dependencies
 pip install -r requirements.txt
 3. Open the Notebook
@@ -104,7 +104,7 @@ jupyter notebook
 Open:
 
 projet data analyst 2 (scode python).ipynb
-### 📌 Results
+###  Results
 
 This project helps transform raw data into actionable insights using analytical and visualization techniques.
 
@@ -118,7 +118,7 @@ Data-driven conclusions
 
 # Farid Oumnay
 
-### ⭐ Conclusion
+###  Conclusion
 
 This project demonstrates practical applications of:
 
